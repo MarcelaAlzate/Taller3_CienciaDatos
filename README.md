@@ -229,7 +229,7 @@ Las celdas deben ejecutarse en orden para realizar correctamente la conexión, l
 
 Repositorio público de GitHub:
 
-**[PEGAR AQUÍ EL ENLACE DE TU REPOSITORIO]**
+**[https://github.com/MarcelaAlzate/Taller3_CienciaDatos]**
 
 ## Autor
 
